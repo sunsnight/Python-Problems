@@ -1,0 +1,5 @@
+print("Vamos a calcular el area de un triangulo en cm2")
+base=int(input("¿Cuál es la base?"))
+altura=int(input("Cuál es la altura?"))
+Area=((base * altura) /2)
+print("El area del triangulo es: " + str(Area) +" cm2")
